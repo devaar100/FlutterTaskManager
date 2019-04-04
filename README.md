@@ -1,4 +1,4 @@
-# foodie
+# Task Manager
 
 A new Flutter application.
 
