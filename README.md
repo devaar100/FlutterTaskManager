@@ -1,6 +1,25 @@
 # Task Manager
 
-A new Flutter application.
+<table>
+    <tr>
+        <td>
+           <img src="https://github.com/devaar100/FlutterTaskManager/blob/master/Screenshot_1554402083.png" width="200">
+        </td>
+        <td>
+           <img src="https://github.com/devaar100/FlutterTaskManager/blob/master/Screenshot_1554402161.png" width="200">
+        </td>
+        <td>
+            <img src="https://github.com/devaar100/FlutterTaskManager/blob/master/Screenshot_1554402173.png" width="200">
+        </td>
+    </tr>
+</table>
+
+A flutter task manager application with the following features - 
+1. Listview
+2. Search filter in appbar
+3. Firebase Database connectivity
+4. Floating action button
+5. Transition between widgets ( activites in android )
 
 ## Getting Started
 
